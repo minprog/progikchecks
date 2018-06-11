@@ -1,1 +1,1 @@
--e git://github.com/jelleas/check50_uva.git#egg=check50.uva
+git+git://github.com/jelleas/check50_uva.git#egg=check50.uva
